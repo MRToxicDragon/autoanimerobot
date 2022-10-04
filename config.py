@@ -12,8 +12,8 @@ MONGO_DB_URI = getenv("mongodb+srv://1:1@cluster0.1tetwnx.mongodb.net/?retryWrit
 INDEX_ID = int(getenv("-1001247900358"))
 UPLOADS_ID = int(getenv("-1001640403011"))
 
-STATUS_ID = int(getenv("https://t.me/ARKJ360_anime_db/3"))
-SCHEDULE_ID = int(getenv("https://t.me/ARKJ360_anime_db/5"))
+STATUS_ID = int(getenv("3"))
+SCHEDULE_ID = int(getenv("5"))
 
 CHANNEL_TITLE = getenv("ARKJ360")
 INDEX_USERNAME = getenv("RKJ360_anime_index")
