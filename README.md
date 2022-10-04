@@ -27,6 +27,8 @@
 
 <hr>
 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/e3pt8k?referralCode=MRToxicDragon)
+
 ### 🧲 Required Variables
 
 * `API_ID` - Get this value from my.telegram.org
