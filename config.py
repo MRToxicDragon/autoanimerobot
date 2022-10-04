@@ -16,5 +16,5 @@ STATUS_ID = int(getenv("https://t.me/ARKJ360_anime_db/3"))
 SCHEDULE_ID = int(getenv("https://t.me/ARKJ360_anime_db/5"))
 
 CHANNEL_TITLE = getenv("ARKJ360")
-INDEX_USERNAME = getenv("https://t.me/ARKJ360_anime_index")
-UPLOADS_USERNAME = getenv("https://t.me/ARKJ360_anime_db")
+INDEX_USERNAME = getenv("RKJ360_anime_index")
+UPLOADS_USERNAME = getenv("ARKJ360_anime_db")
